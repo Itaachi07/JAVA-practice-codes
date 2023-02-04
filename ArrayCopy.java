@@ -7,7 +7,9 @@ public class ArrayCopy {
         {
             arr2 [i] = arr[i];
         }
-        
+        for (int i : arr2) {
+            System.out.print(i + " ");
+        }
         for(int i =0;i<arr2.length;i++)
         {
             System.out.print(arr2[i] +" ");
