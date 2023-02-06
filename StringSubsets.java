@@ -18,7 +18,6 @@ public class StringSubsets {
         for (Object c  : al) {
             System.out.println(c);
         }
-        
 
     }
 }
