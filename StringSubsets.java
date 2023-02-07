@@ -3,9 +3,9 @@ import java.util.ArrayList;
 public class StringSubsets {
     public static void main(String[] args) {
         String str = "fun";
-        int i =0, temp=0;
+        int i =0;
         int len = str.length();
-        ArrayList al = new ArrayList<>();
+        ArrayList <String> al = new ArrayList<String>();
 
         for(i=0; i<len;i++)
         {
