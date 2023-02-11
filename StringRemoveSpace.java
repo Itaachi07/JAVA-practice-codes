@@ -7,6 +7,6 @@ public class StringRemoveSpace {
        System.out.println(str);
        
        str2 = str2.replace(' ', '_');
-       System.out.println(str2);
+       System.out.println(str2); //Hello_World_,_How_Are_You_?
     }
 }
