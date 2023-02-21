@@ -15,6 +15,7 @@ public class StringAnagram {
            
             Arrays.sort(string1);
             Arrays.sort(string2);
+            
           if (Arrays.equals(string1, string2)) {
             System.out.println( "Anagram");
           } else {

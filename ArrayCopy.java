@@ -14,5 +14,6 @@ public class ArrayCopy {
         {
             System.out.print(arr2[i] +" ");
         }
+       
     }
 }
