@@ -1,3 +1,7 @@
+/* 2025 --> 20 + 25 --> 45
+    45^2 == 2025 ?
+ */
+
 public class TechNumber {
     public static void main(String[] args) {
         int num =2025;
